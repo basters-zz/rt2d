@@ -187,6 +187,8 @@ add_executable(start
 	start/spaceship.cpp
 	start/bullet.h
 	start/bullet.cpp
+	start/astroid.h
+	start/astroid.cpp
 )
 target_link_libraries(start
 	${ALL_LIBS}
